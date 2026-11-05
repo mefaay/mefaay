@@ -49,7 +49,47 @@ At **BuyKibris.com** I led both general management and software development for 
 
 ---
 
-## 🚀 Featured Projects — Live Platforms
+## ⭐ Featured — AI Products
+
+The work I'm most proud of: in‑house AI products I designed and built, from a conversational digital human to an autonomous sales agent.
+
+<table>
+<tr>
+<td width="52%" valign="top">
+<img src="pazarlama-ajani.png" width="100%">
+</td>
+<td width="48%" valign="top">
+<h3>📈 BuyKibris Marketing Agent</h3>
+An autonomous <b>AI sales & outreach agent</b>. It discovers businesses from maps, flags the ones with no website, classifies intent with an LLM, then writes and sends personalized messages, follows up and books appointments — automatically. The dashboard tracks a live <b>lead → message → reply → appointment</b> funnel across <b>2,000+ leads</b>, with background workers, rate‑limited sending and a blacklist.
+<br/><br/><sub><b>Python · SQLite · Celery/Redis · Google Maps · LLM</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="52%" valign="top">
+<img src="faaylo.jpg" width="100%">
+</td>
+<td width="48%" valign="top">
+<h3>🪩 Faaylo — Conversational Digital Human</h3>
+A real‑time <b>holographic AI persona</b>. Faaylo renders a lifelike face (WebGL) with live <b>Wav2Lip</b> lip‑sync, speaks with offline or neural TTS, listens continuously and senses when you've finished talking, <b>sees you</b> through the camera (local MediaPipe face tracking — video never leaves the device) and mirrors your head movements, and <b>remembers</b> you via a semantic memory it builds from conversation. Runs fully offline on local LLMs.
+<br/><br/><sub><b>FastAPI · WebGL · Wav2Lip (CUDA) · MediaPipe · local LLMs</b></sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ Kodcu — Developer & Security AI Agent
+An autonomous **coding agent** I built to develop and audit my own software. It plans, writes and refactors code across projects, runs commands, researches the web, and learns durable lessons and reusable **skills** from feedback. Ships with skills for web apps, databases/admin panels, debugging, Git and **secure coding**, runs high‑security **penetration‑style code reviews**, verifies its own work before finishing, and runs free & offline on local models — or connects to Claude/Gemini.
+<br/><sub><b>Node.js · Local LLMs (Ollama) · Claude/Gemini · SQLite</b></sub>
+
+### 🏢 Emlak Yönetim — Real‑Estate AI Assistant
+An AI assistant for real‑estate operations — organizing portfolios and listings and streamlining day‑to‑day agency workflows.
+
+### 🎯 AI Sales & Field Tracking
+Activity tracking, performance analysis and AI‑assisted evaluation for sales & marketing teams.
+
+---
+
+## 🚀 Live Web Platforms
 
 Real products I've designed and built. Click any image to open the live site.
 
@@ -62,17 +102,6 @@ Real products I've designed and built. Click any image to open the live site.
 <h3>🛒 <a href="https://buykibris.com">BuyKibris.com</a></h3>
 Cyprus's classifieds & shopping marketplace — <b>10,000+ members, 300+ partner stores</b>. Web platform, admin panels, modular features, plus Android & iOS apps. Includes digital discount card, wallet and loyalty‑point systems.
 <br/><br/><sub><b>PHP · JavaScript · MySQL · REST API · Android/iOS</b></sub>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<a href="https://apexonsoft.com"><img src="apexonsoft.jpg" width="100%"></a>
-</td>
-<td width="50%" valign="top">
-<h3>💠 <a href="https://apexonsoft.com">ApexonSoft</a></h3>
-Digital product studio — corporate websites, e‑commerce, mobile apps and custom software, built for measurable, SEO‑friendly results. Dark, modern, multi‑language (RTL‑ready) front end.
-<br/><br/><sub><b>Web · E‑commerce · Mobile · Custom Software</b></sub>
 </td>
 </tr>
 
@@ -133,6 +162,17 @@ Client project — air‑conditioning sales, installation, maintenance and techn
 
 <tr>
 <td width="50%" valign="top">
+<a href="https://apexonsoft.com"><img src="apexonsoft.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>💠 <a href="https://apexonsoft.com">ApexonSoft</a></h3>
+Digital product studio — corporate websites, e‑commerce, mobile apps and custom software, built for measurable, SEO‑friendly results. Dark, modern, multi‑language (RTL‑ready) front end.
+<br/><br/><sub><b>Web · E‑commerce · Mobile · Custom Software</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 <a href="https://hasantosunoglu.com"><img src="hasantosunoglu.jpg" width="100%"></a>
 </td>
 <td width="50%" valign="top">
@@ -169,45 +209,6 @@ A field app for service technicians: a guided **9‑step job flow** (installatio
 
 ---
 
-## 🤖 AI & Automation
-
-In‑house AI products I designed and built — from an autonomous sales agent to a conversational digital human.
-
-<table>
-<tr>
-<td width="52%" valign="top">
-<img src="pazarlama-ajani.png" width="100%">
-</td>
-<td width="48%" valign="top">
-<h3>📈 BuyKibris Marketing Agent</h3>
-An autonomous <b>AI sales & outreach agent</b>. It discovers businesses from maps, flags the ones with no website, classifies intent with an LLM, then writes and sends personalized messages, follows up and books appointments — automatically. The dashboard tracks a live <b>lead → message → reply → appointment</b> funnel across <b>2,000+ leads</b>, with background workers, rate‑limited sending and a blacklist.
-<br/><br/><sub><b>Python · SQLite · Celery/Redis · Google Maps · LLM</b></sub>
-</td>
-</tr>
-<tr>
-<td width="52%" valign="top">
-<img src="faaylo.jpg" width="100%">
-</td>
-<td width="48%" valign="top">
-<h3>🪩 Faaylo — Conversational Digital Human</h3>
-A real‑time <b>holographic AI persona</b>. Faaylo renders a lifelike face (WebGL) with live <b>Wav2Lip</b> lip‑sync, speaks with offline or neural TTS, listens continuously and senses when you've finished talking, <b>sees you</b> through the camera (local MediaPipe face tracking — video never leaves the device) and mirrors your head movements, and <b>remembers</b> you via a semantic memory it builds from conversation. Runs fully offline on local LLMs.
-<br/><br/><sub><b>FastAPI · WebGL · Wav2Lip (CUDA) · MediaPipe · local LLMs</b></sub>
-</td>
-</tr>
-</table>
-
-### 🛡️ Kodcu — Developer & Security AI Agent
-An autonomous **coding agent** I built to develop and audit my own software. It plans, writes and refactors code across projects, runs commands, researches the web, and learns durable lessons and reusable **skills** from feedback. Ships with skills for web apps, databases/admin panels, debugging, Git and **secure coding**, runs high‑security **penetration‑style code reviews**, verifies its own work before finishing, and runs free & offline on local models — or connects to Claude/Gemini.
-<br/><sub><b>Node.js · Local LLMs (Ollama) · Claude/Gemini · SQLite</b></sub>
-
-### 🏢 Emlak Yönetim — Real‑Estate AI Assistant
-An AI assistant for real‑estate operations — organizing portfolios and listings and streamlining day‑to‑day agency workflows.
-
-### 🎯 AI Sales & Field Tracking
-Activity tracking, performance analysis and AI‑assisted evaluation for sales & marketing teams.
-
----
-
 ## 🧰 More Software & Systems
 
 Shipped across many sectors — web, mobile & desktop:
@@ -239,7 +240,7 @@ Shipped across many sectors — web, mobile & desktop:
 ## 📫 Connect
 
 - 💻 GitHub: [@mefaay](https://github.com/mefaay)
-- 🌐 Live products: see **Featured Projects** above
+- 🌐 Live products: see the sections above
 - 📍 Nicosia, North Cyprus
 
 ---
