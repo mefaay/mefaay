@@ -145,6 +145,30 @@ Client project — political candidate campaign website. News, vision, events, g
 
 ---
 
+## 📱 Mobile Apps
+
+Native mobile apps where a lot of the real engineering lives — syncing with the web backend over REST APIs, offline‑friendly flows, QR and in‑app wallets.
+
+### 🛍️ BuyKibris — Marketplace & Wallet App
+The BuyKibris marketplace in your pocket: browse 10,000+ listings across categories, post free ads, scan store QR codes, and manage an in‑app **points wallet** with earn/spend history and withdrawal requests.
+
+<p>
+<img src="m-buykibris-home.jpeg" width="235"/>&nbsp;&nbsp;&nbsp;<img src="m-buykibris-wallet.jpeg" width="235"/>
+</p>
+
+<sub><b>React Native / Expo · REST API · Wallet & loyalty points</b></sub>
+
+### 🔧 Technical‑Service Field App
+A field app for service technicians: a guided **9‑step job flow** (installation / repair / maintenance), shift tracking, stock entry and job history — built for on‑site teams.
+
+<p>
+<img src="m-teknikservis-job.jpeg" width="235"/>&nbsp;&nbsp;&nbsp;<img src="m-teknikservis-list.jpeg" width="235"/>
+</p>
+
+<sub><b>Mobile · Field service · Job management</b></sub>
+
+---
+
 ## 🤖 AI & Automation
 
 In‑house AI products I designed and built — from an autonomous sales agent to a conversational digital human.
@@ -188,8 +212,6 @@ Activity tracking, performance analysis and AI‑assisted evaluation for sales &
 
 Shipped across many sectors — web, mobile & desktop:
 
-- 📱 **BuyKibris Mobile & Wallet App** — the BuyKibris marketplace app with an in‑app wallet *(React Native / Expo)*
-- 🔧 **Technical‑Service Mobile App** — field‑service tracking, job management and operations for technical‑service teams
 - 🧾 **Accounting Desktop App** — accounting, personnel and business‑operations management
 - 🚗 **Rent‑a‑Car Reservation System** — booking, scheduling & online payment for car‑rental businesses
 - 🍽️ **Restaurant QR‑Menu & Website** — digital menus and websites for restaurants
