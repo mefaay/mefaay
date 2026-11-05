@@ -15,13 +15,14 @@
 
 ## 🧭 About me
 
-I'm a software developer and technology lead who combines **engineering, product management and business operations**. Over 10+ years I've shipped web, mobile and desktop software — from marketplaces and QR‑menu systems to payment, wallet and loyalty platforms — plus in‑house **AI** products.
+I'm a software developer and technology lead. I design and build the **full stack of a product** — backend architecture and the algorithms & business logic underneath, admin panels, REST APIs, and the mobile apps and web platforms that sit on top of them. My real strength is **complex problem‑solving at the seams**: making mobile apps and web systems behave as one coherent product, with payment, wallet and loyalty logic, data sync and automation running reliably behind the scenes.
 
-At **BuyKibris.com** I led both general management and software development for a multi‑tenant platform with **10,000+ members and 300+ partner stores**, building the web infrastructure, admin panels, modular features and the Android/iOS apps. Alongside this I've founded and built several of my own startups and delivered client projects end‑to‑end.
+At **BuyKibris.com** I led both general management and software development for a multi‑tenant platform with **10,000+ members and 300+ partner stores** — building the web infrastructure, admin panels, a modular feature system, REST APIs and the Android/iOS apps, plus the digital discount‑card, wallet and loyalty‑point engines. Alongside this I've founded my own startups, delivered client projects end‑to‑end, and built in‑house **AI** products.
 
-- 🏗️ End‑to‑end builder: backend, admin panels, REST APIs, and mobile apps
-- 💳 Payment, wallet, loyalty & discount‑card systems
-- 🤖 Building AI products (human‑simulation AI, developer AI, AI‑assisted sales)
+- 🏗️ **End‑to‑end engineering** — backend architecture, algorithms & business logic, admin panels, REST APIs
+- 🔗 **Complex problem‑solving across mobile & web** — integration, real‑time sync, automation between apps and platforms
+- 💳 **Fintech‑style systems** — payment, wallet, loyalty & discount‑card engines
+- 🤖 **In‑house AI products** — human‑simulation AI, a developer/security AI agent, AI‑assisted sales
 - 🌍 Ran tech & operations at international events (TEKNOFEST, World Cups, Islamic Solidarity Games)
 
 ---
@@ -144,31 +145,58 @@ Client project — political candidate campaign website. News, vision, events, g
 
 ---
 
-## 🤖 AI Products
+## 🤖 AI & Automation
 
-| Project | What it is |
-| --- | --- |
-| **Faaylo** | A realistic **human‑simulation AI** — a lifelike digital human / conversational persona, not a website. |
-| **Kodcu** | An in‑house **AI assistant** we developed to support software and R&D workflows. |
-| **BuyKibris Marketing Assistant** | AI‑powered marketing assistant for campaign content and business outreach. |
-| **AI Sales & Field Tracking** | Activity tracking, performance analysis and AI‑assisted evaluation for sales & marketing teams. |
+In‑house AI products I designed and built — from an autonomous sales agent to a conversational digital human.
+
+<table>
+<tr>
+<td width="52%" valign="top">
+<img src="pazarlama-ajani.png" width="100%">
+</td>
+<td width="48%" valign="top">
+<h3>📈 BuyKibris Marketing Agent</h3>
+An autonomous <b>AI sales & outreach agent</b>. It discovers businesses from maps, flags the ones with no website, classifies intent with an LLM, then writes and sends personalized messages, follows up and books appointments — automatically. The dashboard tracks a live <b>lead → message → reply → appointment</b> funnel across <b>2,000+ leads</b>, with background workers, rate‑limited sending and a blacklist.
+<br/><br/><sub><b>Python · SQLite · Celery/Redis · Google Maps · LLM</b></sub>
+</td>
+</tr>
+<tr>
+<td width="52%" valign="top">
+<img src="faaylo.jpg" width="100%">
+</td>
+<td width="48%" valign="top">
+<h3>🪩 Faaylo — Conversational Digital Human</h3>
+A real‑time <b>holographic AI persona</b>. Faaylo renders a lifelike face (WebGL) with live <b>Wav2Lip</b> lip‑sync, speaks with offline or neural TTS, listens continuously and senses when you've finished talking, <b>sees you</b> through the camera (local MediaPipe face tracking — video never leaves the device) and mirrors your head movements, and <b>remembers</b> you via a semantic memory it builds from conversation. Runs fully offline on local LLMs.
+<br/><br/><sub><b>FastAPI · WebGL · Wav2Lip (CUDA) · MediaPipe · local LLMs</b></sub>
+</td>
+</tr>
+</table>
+
+### 🛡️ Kodcu — Developer & Security AI Agent
+An autonomous **coding agent** I built to develop and audit my own software. It plans, writes and refactors code across projects, runs commands, researches the web, and learns durable lessons and reusable **skills** from feedback. Ships with skills for web apps, databases/admin panels, debugging, Git and **secure coding**, runs high‑security **penetration‑style code reviews**, verifies its own work before finishing, and runs free & offline on local models — or connects to Claude/Gemini.
+<br/><sub><b>Node.js · Local LLMs (Ollama) · Claude/Gemini · SQLite</b></sub>
+
+### 🏢 Emlak Yönetim — Real‑Estate AI Assistant
+An AI assistant for real‑estate operations — organizing portfolios and listings and streamlining day‑to‑day agency workflows.
+
+### 🎯 AI Sales & Field Tracking
+Activity tracking, performance analysis and AI‑assisted evaluation for sales & marketing teams.
 
 ---
 
 ## 🧰 More Software & Systems
 
-Built across many sectors for businesses and tradespeople (web, mobile & desktop):
+Shipped across many sectors — web, mobile & desktop:
 
-- 🧾 **Accounting & Business Management** — accounting, personnel and operations software
+- 📱 **BuyKibris Mobile & Wallet App** — the BuyKibris marketplace app with an in‑app wallet *(React Native / Expo)*
+- 🔧 **Technical‑Service Mobile App** — field‑service tracking, job management and operations for technical‑service teams
+- 🧾 **Accounting Desktop App** — accounting, personnel and business‑operations management
 - 🚗 **Rent‑a‑Car Reservation System** — booking, scheduling & online payment for car‑rental businesses
-- 🍽️ **Restaurant QR‑Menu System** — digital menus and product presentation for restaurants
-- 🏢 **Real‑Estate / Property Management** — portfolio listing & management for agencies and auto galleries
-- 🎁 **Raffle (Çekiliş) Software** — campaign communication and prize‑draw management
-- 🔎 **DomainHunter** — domain research & discovery tool
-- 📢 **SosyalBot** — automatic social‑media posting for product, vehicle & real‑estate portfolios
-- 💬 **Messaging Automation** — WhatsApp/Telegram notifications & cross‑platform workflow integrations
-- 📨 **Bulk SMS & Email** — campaign messaging systems
+- 🍽️ **Restaurant QR‑Menu & Website** — digital menus and websites for restaurants
+- 🤝 **SosyalBot** — human‑like automation that posts cars & property to large Facebook groups automatically
 - 🧳 **Yoldostum** — travel‑companion platform matching people on similar routes
+- 💬 **Messaging Automation** — WhatsApp/Telegram notifications & cross‑platform workflow integrations
+- 📨 **Bulk SMS & Email · Raffle tools · DomainHunter** — campaign messaging, prize‑draws and domain research
 
 ---
 
