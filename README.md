@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Developer · Product & Technology Lead</b><br/>
-  Building web, mobile & desktop products — payment, loyalty, automation and AI-assisted systems.
+  I build web, mobile & desktop products — marketplaces, payment & loyalty systems, automation and AI.
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
 
 ## 🧭 About me
 
-I'm a software developer and technology lead who combines **engineering, product management and business operations**. Over 10+ years I've shipped web, mobile and desktop software — from e‑commerce and QR‑menu systems to payment, wallet and loyalty platforms.
+I'm a software developer and technology lead who combines **engineering, product management and business operations**. Over 10+ years I've shipped web, mobile and desktop software — from marketplaces and QR‑menu systems to payment, wallet and loyalty platforms — plus in‑house **AI** products.
 
-At **BuyKibris.com** I led both general management and software development for a multi‑tenant platform with **10,000+ members and 300+ partner stores**, building the web infrastructure, admin panels, modular features and the Android/iOS apps. Alongside this I've founded and built several of my own startups.
+At **BuyKibris.com** I led both general management and software development for a multi‑tenant platform with **10,000+ members and 300+ partner stores**, building the web infrastructure, admin panels, modular features and the Android/iOS apps. Alongside this I've founded and built several of my own startups and delivered client projects end‑to‑end.
 
-- 🏗️ I build end‑to‑end: backend, admin panels, APIs, and mobile apps
-- 💳 Experienced with payment, wallet, loyalty & discount‑card systems
-- 🤖 I use AI‑assisted development for prototyping, code review and automation
-- 🌍 Managed tech & operations at international events (TEKNOFEST, World Cups, Islamic Solidarity Games)
+- 🏗️ End‑to‑end builder: backend, admin panels, REST APIs, and mobile apps
+- 💳 Payment, wallet, loyalty & discount‑card systems
+- 🤖 Building AI products (human‑simulation AI, developer AI, AI‑assisted sales)
+- 🌍 Ran tech & operations at international events (TEKNOFEST, World Cups, Islamic Solidarity Games)
 
 ---
 
@@ -48,20 +48,127 @@ At **BuyKibris.com** I led both general management and software development for 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects — Live Platforms
 
-Products I've designed and built — most are live platforms serving real users.
+Real products I've designed and built. Click any image to open the live site.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[BuyKibris.com](https://buykibris.com)** | Multi‑tenant discount, wallet & loyalty platform · 10K+ members, 300+ stores · web + Android/iOS | PHP · JS · MySQL · REST API |
-| **[biletcik.com](https://biletcik.com)** | Event ticketing platform for concerts, theatre & events | PHP · JS · MySQL |
-| **[kktcevarkadasi.com](https://kktcevarkadasi.com)** | Roommate & housing platform for students and workers in N. Cyprus | PHP · JS · MySQL |
-| **[kktcsikayet.com](https://kktcsikayet.com)** | Consumer complaints & feedback platform (companies can respond) | PHP · JS · MySQL |
-| **[buymedya.com](https://buymedya.com)** | Social‑media services platform (followers, likes, comments management) | PHP · JS · MySQL |
-| **[yoldostum.com](https://yoldostum.com)** | Travel‑companion platform — matching people on similar routes | PHP · JS · MySQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://buykibris.com"><img src="buykibris.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>🛒 <a href="https://buykibris.com">BuyKibris.com</a></h3>
+Cyprus's classifieds & shopping marketplace — <b>10,000+ members, 300+ partner stores</b>. Web platform, admin panels, modular features, plus Android & iOS apps. Includes digital discount card, wallet and loyalty‑point systems.
+<br/><br/><sub><b>PHP · JavaScript · MySQL · REST API · Android/iOS</b></sub>
+</td>
+</tr>
 
-> 🧩 **Also built:** rent‑a‑car reservation & online payment systems · restaurant QR‑menu systems · auto‑gallery & real‑estate listing platforms · accounting / HR / field‑sales tracking software · AI‑assisted sales & performance analysis · WhatsApp/Telegram messaging & workflow automation · bulk SMS / email / raffle tools · social‑media auto‑posting bots.
+<tr>
+<td width="50%" valign="top">
+<a href="https://apexonsoft.com"><img src="apexonsoft.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>💠 <a href="https://apexonsoft.com">ApexonSoft</a></h3>
+Digital product studio — corporate websites, e‑commerce, mobile apps and custom software, built for measurable, SEO‑friendly results. Dark, modern, multi‑language (RTL‑ready) front end.
+<br/><br/><sub><b>Web · E‑commerce · Mobile · Custom Software</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://biletcik.com"><img src="biletcik.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>🎟️ <a href="https://biletcik.com">Biletcik.com</a></h3>
+Event ticketing platform for Cyprus — concerts, theatre, cinema, festivals and more. Category browsing, event discovery and online ticket purchase.
+<br/><br/><sub><b>PHP · JavaScript · MySQL</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://buymedya.com"><img src="buymedya.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>🎬 <a href="https://buymedya.com">BuyMedya.com</a></h3>
+Digital media agency platform — video production, drone shooting, web design, SEO and social‑media management, with an SMM service panel.
+<br/><br/><sub><b>PHP · JavaScript · MySQL · SMM Panel</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://kktcevarkadasi.com"><img src="kktcevarkadasi.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>🏠 <a href="https://kktcevarkadasi.com">KKTC Ev Arkadaşı</a></h3>
+Roommate & housing platform for students and workers in North Cyprus — city‑based listings, "looking for a place / looking for a roommate" matching and a map radar.
+<br/><br/><sub><b>PHP · JavaScript · MySQL</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://kktcsikayet.com"><img src="kktcsikayet.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>📣 <a href="https://kktcsikayet.com">KKTC Şikayet</a></h3>
+Independent consumer‑complaints platform for North Cyprus — users post issues with companies, businesses respond, editor‑approved and free to use.
+<br/><br/><sub><b>PHP · JavaScript · MySQL</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://cckiklimlendirme.com"><img src="cckiklimlendirme.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>❄️ <a href="https://cckiklimlendirme.com">CCK İklimlendirme</a></h3>
+Client project — air‑conditioning sales, installation, maintenance and technical‑service company site with product catalog, service requests and quote basket.
+<br/><br/><sub><b>Client Web · Catalog · Quote System</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<a href="https://hasantosunoglu.com"><img src="hasantosunoglu.jpg" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<h3>🗳️ <a href="https://hasantosunoglu.com">Hasan Tosunoğlu</a></h3>
+Client project — political candidate campaign website. News, vision, events, gallery and a volunteer sign‑up flow, with a polished editorial design.
+<br/><br/><sub><b>Client Web · Campaign Site</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI Products
+
+| Project | What it is |
+| --- | --- |
+| **Faaylo** | A realistic **human‑simulation AI** — a lifelike digital human / conversational persona, not a website. |
+| **Kodcu** | An in‑house **AI assistant** we developed to support software and R&D workflows. |
+| **BuyKibris Marketing Assistant** | AI‑powered marketing assistant for campaign content and business outreach. |
+| **AI Sales & Field Tracking** | Activity tracking, performance analysis and AI‑assisted evaluation for sales & marketing teams. |
+
+---
+
+## 🧰 More Software & Systems
+
+Built across many sectors for businesses and tradespeople (web, mobile & desktop):
+
+- 🧾 **Accounting & Business Management** — accounting, personnel and operations software
+- 🚗 **Rent‑a‑Car Reservation System** — booking, scheduling & online payment for car‑rental businesses
+- 🍽️ **Restaurant QR‑Menu System** — digital menus and product presentation for restaurants
+- 🏢 **Real‑Estate / Property Management** — portfolio listing & management for agencies and auto galleries
+- 🎁 **Raffle (Çekiliş) Software** — campaign communication and prize‑draw management
+- 🔎 **DomainHunter** — domain research & discovery tool
+- 📢 **SosyalBot** — automatic social‑media posting for product, vehicle & real‑estate portfolios
+- 💬 **Messaging Automation** — WhatsApp/Telegram notifications & cross‑platform workflow integrations
+- 📨 **Bulk SMS & Email** — campaign messaging systems
+- 🧳 **Yoldostum** — travel‑companion platform matching people on similar routes
 
 ---
 
