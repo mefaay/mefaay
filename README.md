@@ -252,6 +252,7 @@ Shipped across many sectors — web, mobile & desktop:
 ## 📫 Connect
 
 - 💻 GitHub: [@mefaay](https://github.com/mefaay)
+- 💼 LinkedIn: [in/mefaay](https://www.linkedin.com/in/mefaay/)
 - 🌐 Live products: see the sections above
 - 📍 Nicosia, North Cyprus
 
