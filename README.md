@@ -93,7 +93,7 @@ A selection of the products I've designed and built. Click a live site to open i
 <img src="pazarlama-ajani.png" width="100%">
 </td>
 <td width="50%" valign="top">
-<h3>📈 BuyKibris Marketing Agent</h3>
+<h3>📈 <a href="https://github.com/mefaay/buykibris-marketing-agent">BuyKibris Marketing Agent</a></h3>
 An autonomous <b>AI sales & outreach agent</b> — discovers businesses from maps, flags the ones with no website, classifies intent with an LLM, then writes and sends personalized messages, follows up and books appointments automatically. Live <b>lead → message → reply → appointment</b> funnel across <b>2,000+ leads</b>, with background workers, rate‑limited sending and a blacklist.
 <br/><br/><sub><b>Python · SQLite · Celery/Redis · Google Maps · LLM</b></sub>
 </td>
@@ -104,7 +104,7 @@ An autonomous <b>AI sales & outreach agent</b> — discovers businesses from map
 <img src="faaylo.jpg" width="100%">
 </td>
 <td width="50%" valign="top">
-<h3>🪩 Faaylo — Conversational Digital Human</h3>
+<h3>🪩 <a href="https://github.com/mefaay/faaylo">Faaylo — Conversational Digital Human</a></h3>
 A real‑time <b>holographic AI persona</b>. Faaylo renders a lifelike face (WebGL) with live <b>Wav2Lip</b> lip‑sync, speaks with offline or neural TTS, listens continuously and senses when you've finished talking, <b>sees you</b> through the camera (local MediaPipe face tracking — video never leaves the device) and mirrors your head movements, and <b>remembers</b> you via a semantic memory it builds from conversation. Runs fully offline on local LLMs.
 <br/><br/><sub><b>FastAPI · WebGL · Wav2Lip (CUDA) · MediaPipe · local LLMs</b></sub>
 </td>
@@ -183,7 +183,7 @@ Client project — air‑conditioning sales, installation, maintenance and techn
 
 Native mobile apps where a lot of the real engineering lives — syncing with the web backend over REST APIs, offline‑friendly flows, QR and in‑app wallets.
 
-### 🛍️ BuyKibris — Marketplace & Wallet App
+### 🛍️ [BuyKibris — Marketplace & Wallet App](https://github.com/mefaay/buykibris)
 The BuyKibris marketplace in your pocket: browse 10,000+ listings across categories, post free ads, scan store QR codes, and manage an in‑app **points wallet** with earn/spend history and withdrawal requests.
 
 <p>
@@ -192,7 +192,7 @@ The BuyKibris marketplace in your pocket: browse 10,000+ listings across categor
 
 <sub><b>React Native / Expo · REST API · Wallet & loyalty points</b></sub>
 
-### 🔧 Technical‑Service Field App
+### 🔧 [Technical‑Service Field App](https://github.com/mefaay/technical-service-app)
 A field app for service technicians: a guided **9‑step job flow** (installation / repair / maintenance), shift tracking, stock entry and job history — built for on‑site teams.
 
 <p>
@@ -207,7 +207,7 @@ A field app for service technicians: a guided **9‑step job flow** (installatio
 
 More in‑house AI I've built:
 
-### 🛡️ Kodcu — Developer & Security AI Agent
+### 🛡️ [Kodcu — Developer & Security AI Agent](https://github.com/mefaay/kodcu)
 An autonomous **coding agent** I built to develop and audit my own software. It plans, writes and refactors code across projects, runs commands, researches the web, and learns durable lessons and reusable **skills** from feedback. Ships with skills for web apps, databases/admin panels, debugging, Git and **secure coding**, runs high‑security **penetration‑style code reviews**, verifies its own work before finishing, and runs free & offline on local models — or connects to Claude/Gemini.
 <br/><sub><b>Node.js · Local LLMs (Ollama) · Claude/Gemini · SQLite</b></sub>
 
